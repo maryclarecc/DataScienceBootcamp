@@ -1,2 +1,7 @@
-# DataScienceBootcamp
-Projects and assignments from Northwestern University's Data Science and Visualization Bootcamp. 
+# excel-challenge
+
+Discovering Kickstarter campaign trends
+* percent funded
+* average donation
+* category and sub-category stats
+* pattern over time
